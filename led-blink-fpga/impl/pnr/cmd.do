@@ -1,0 +1,16 @@
+-d C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg
+-p GW1NR-9C-QFN88-6
+-pn GW1NR-LV9QN88C6/I5
+-cst C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\src\led-blink-fpga.cst
+-cfg C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000
