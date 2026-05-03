@@ -1,8 +1,8 @@
--d C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg
--p GW1NR-9C-QFN88-6
--pn GW1NR-LV9QN88C6/I5
--cst C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\src\led-blink-fpga.cst
--cfg C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\device.cfg
+-d C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\src\led-blink-fpga.cst
+-cfg C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\pnr\device.cfg
 -bit
 -tr
 -ph

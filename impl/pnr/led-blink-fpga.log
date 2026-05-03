@@ -1,7 +1,7 @@
-Reading netlist file: "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg"
-Parsing netlist file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg" completed
+Reading netlist file: "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg"
+Parsing netlist file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\gwsynthesis\led-blink-fpga.vg" completed
 Processing netlist completed
-Reading constraint file: "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\src\led-blink-fpga.cst"
+Reading constraint file: "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\src\led-blink-fpga.cst"
 Physical Constraint parsed completed
 Running placement......
 [10%] Placement Phase 0 completed
@@ -21,10 +21,10 @@ Bitstream generation in progress......
 Bitstream generation completed
 Running power analysis......
 [100%] Power analysis completed
-Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\led-blink-fpga.power.html" completed
-Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\led-blink-fpga.pin.html" completed
-Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\led-blink-fpga.rpt.html" completed
-Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\led-blink-fpga.rpt.txt" completed
-Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\led-blink-fpga\impl\pnr\led-blink-fpga.tr.html" completed
-Mon Apr 27 22:43:25 2026
+Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\pnr\led-blink-fpga.power.html" completed
+Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\pnr\led-blink-fpga.pin.html" completed
+Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\pnr\led-blink-fpga.rpt.html" completed
+Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\pnr\led-blink-fpga.rpt.txt" completed
+Generate file "C:\Users\josen\OneDrive\Documents\GitHub\led-blink-fpga\impl\pnr\led-blink-fpga.tr.html" completed
+Sat May  2 22:54:40 2026
 
